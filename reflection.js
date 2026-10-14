@@ -1,0 +1,5 @@
+console.log("My reflection during intrams are so memorable and enjoyable because we yelled and cheered to support our fellow IT students. We also enjoyed watching the mass demo, although it was exciting and a little nervous because the competition was intense. They really prepared for it, and i saw how much effort they put into practicing and performing their dance well.
+
+While different students were playing various games, my friends and i walked around to look at the things they were selling. We saw how hardworking and determined they were to sell their products. We also watched different games. Even though we did not participate in the games, we still enjoyed the day because i was with my friends.
+
+In the afternoon, we watched the pageant and cheered for our representative. It was fun and enjoyable to watch. I also felt inspired because the contestants were very confident even though there were many people watching them. For me, the Intramurals was memorable because it was not only about the games, but also about support,teamwork, and enjoying the experience together.");
